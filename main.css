@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+#textInput {
+  font-size: 20pt;
+  color: blueviolet;
+}
+
+#submitButton {
+  border-radius: 5px;
+  font-size: 20pt;
+}
